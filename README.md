@@ -1,37 +1,22 @@
-# Hi, I'm Harsh Kesharwani 👋
+## 🚀 Tech Stack
 
-## About Me
-I’m a passionate **Software Developer** and **Full Stack Developer** who enjoys building real-world projects and exploring new technologies.  
-I like solving problems with **DSA**, writing clean code in **Java**, and creating impactful web applications.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,react,nextjs,nodejs,express,mongodb,mysql,html,css,tailwind,git,github,vscode" />
+</p>
 
-- 🌱 Currently improving my skills in **Full Stack Development**
-- 💡 Interested in **Software Engineering, Web Development, and Problem Solving**
-- 🚀 Focused on building projects that solve real user problems
-- 📚 Regularly practicing **DSA** and strengthening core CS concepts
-
----
-
-## Tech Stack
-
-### Languages
-- Java
-- JavaScript
-- HTML
-- CSS
-
-### Frontend
-- React.js
-- Tailwind CSS
-
-### Backend
-- Node.js
-- Express.js
-
-### Database
-- MongoDB
-- MySQL
-
-### Tools & Platforms
-- Git
-- GitHub
-- VS Code
+### Technologies I Work With
+- **Java**
+- **JavaScript**
+- **TypeScript**
+- **React.js**
+- **Next.js**
+- **Node.js**
+- **Express.js**
+- **MongoDB**
+- **MySQL**
+- **HTML**
+- **CSS**
+- **Tailwind CSS**
+- **Git**
+- **GitHub**
+- **VS Code**
