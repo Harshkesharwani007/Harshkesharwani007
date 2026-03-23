@@ -1,12 +1,37 @@
-- 👋 Hi, I’m @Harshkesharwani007
-- 👀 I’m interested in Web developement 
-- 🌱 I’m currently learning Full stack 
-- 💞️ I’m looking to collaborate on web developement
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Harsh Kesharwani 👋
 
-<!---
-Harshkesharwani007/Harshkesharwani007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+I’m a passionate **Software Developer** and **Full Stack Developer** who enjoys building real-world projects and exploring new technologies.  
+I like solving problems with **DSA**, writing clean code in **Java**, and creating impactful web applications.
+
+- 🌱 Currently improving my skills in **Full Stack Development**
+- 💡 Interested in **Software Engineering, Web Development, and Problem Solving**
+- 🚀 Focused on building projects that solve real user problems
+- 📚 Regularly practicing **DSA** and strengthening core CS concepts
+
+---
+
+## Tech Stack
+
+### Languages
+- Java
+- JavaScript
+- HTML
+- CSS
+
+### Frontend
+- React.js
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+- MySQL
+
+### Tools & Platforms
+- Git
+- GitHub
+- VS Code
