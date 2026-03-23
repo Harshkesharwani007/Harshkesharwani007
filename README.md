@@ -73,39 +73,13 @@
 - Java Programming
 - Backend Logic Building
 - API Integration
-- AI Chatbot Development
-- AI Agent Workflow Thinking
-- Prompt Engineering
 - Debugging & Optimization
 - Team Collaboration
 - Project Development
 
 ---
 
-## 🚀 Featured Projects
 
-### 🩺 Aaharithm
-A healthcare-based platform designed to connect patients with doctors and vaidyas, providing prescriptions, Ayurvedic guidance, and personalized diet charts.  
-It also includes an AI chatbot that helps users when doctors are unavailable and supports recovery-focused health guidance.
-
-**Key Highlights:**
-- Doctor and Vaidya integration
-- Prescription-based assistance
-- Ayurvedic and diet recommendations
-- AI chatbot for instant support
-- User-focused healthcare experience
-
-### 🎤 AI Mock Interview Platform
-An intelligent interview preparation platform that helps users practice technical and HR interviews with AI-driven interaction and feedback.
-
-**Key Highlights:**
-- Interview simulation
-- Practice-focused user experience
-- Smart question handling
-- Helpful for placement preparation
-
-### 🌐 Full Stack Web Applications
-Built multiple modern projects using frontend and backend technologies with strong focus on real-world usability, clean UI, and efficient functionality.
 
 ---
 
